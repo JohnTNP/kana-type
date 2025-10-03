@@ -1,4 +1,4 @@
-# To-Kana
+# Kana Type
 
 A terminal-based Romaji to Kana converter built with Rust. Convert Roman characters (romaji) to Japanese Hiragana and Katakana in real-time.
 
