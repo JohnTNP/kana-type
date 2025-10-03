@@ -1,0 +1,10 @@
+[package]
+name = "kana-typer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+ratatui = "0.29.0"
+copypasta = "0.10.0"
+to-kana = "0.6.0"
