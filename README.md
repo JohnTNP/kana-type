@@ -2,6 +2,9 @@
 
 A terminal-based Romaji to Kana converter built with Rust. Convert Roman characters (romaji) to Japanese Hiragana and Katakana in real-time.
 
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/8c7a1c15-e389-4bce-97f8-400560ba674c" />
+
+
 ## Features
 
 - Real-time conversion from Romaji to Hiragana/Katakana
