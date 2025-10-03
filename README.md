@@ -19,8 +19,8 @@ A terminal-based Romaji to Kana converter built with Rust. Convert Roman charact
 3. Build and run the project:
 
 ```bash
-git clone https://github.com/yourusername/to-kana.git
-cd to-kana
+git clone https://github.com/JohnTNP/kana-type.git
+cd kana-type
 cargo run
 ```
 
